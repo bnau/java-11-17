@@ -22,7 +22,8 @@ public class _01_TextBlock {
                 {
                     firstName: "John",
                     lastName: "Doe",
-                }""");
+                }
+            """);
     }
 
     // Doesn't compile

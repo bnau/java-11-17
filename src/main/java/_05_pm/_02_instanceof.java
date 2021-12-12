@@ -1,10 +1,11 @@
 package _05_pm;
 
+// Ignore during demo
 public class _02_instanceof {
 
     private static void printType(Object variable) {
         if (variable instanceof String s) {
-            System.out.println("This String is %s".formatted(s));
+            System.out.println("This String is %s".formatted(s.toLowerCase()));
         } else if (variable instanceof Integer i) {
             if (i >= 0) {
                 System.out.println("This positive Integer is %d".formatted(i));

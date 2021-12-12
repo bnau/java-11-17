@@ -1,5 +1,6 @@
 package _04_switch;
 
+// Ignore during demo
 public class _01_Statement {
 
     private static void wishGoodHolidays(String holidaysDestination) {

@@ -1,5 +1,6 @@
 package _05_pm;
 
+// Ignore during demo
 public class _01_switch {
 
     private static void printType(Object variable) {
