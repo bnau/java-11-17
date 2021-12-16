@@ -8,7 +8,6 @@ public class _02_Indention {
     }
 
     private static void indentationExample() {
-        // A tabulation is hidden!
         System.out.println("""
             {
                 firstName: "John",

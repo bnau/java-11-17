@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 
 record Aggregation(long count, double avg) {}
 
-public class _02_teeing {
+public class _01_teeing {
 
     public static void main(String... args) {
         // Let's assume the list is really big

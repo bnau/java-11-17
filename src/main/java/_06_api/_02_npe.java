@@ -1,6 +1,6 @@
 package _06_api;
 
-public class _01_npe {
+public class _02_npe {
     public static void main(String... args) {
         Root root = new Root(null);
         System.out.println(root.nullable().value().getBytes().clone());
