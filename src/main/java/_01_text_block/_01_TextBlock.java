@@ -51,12 +51,4 @@ public class _01_TextBlock {
                 \"""We need to escape each group of three\"""
                 """);
     }
-
-    private static void formatting() {
-        System.out.println("""
-                {
-                    firstName: "%s",
-                    lastName: "%s",
-                }""".formatted("John", "Doe"));
-    }
 }
